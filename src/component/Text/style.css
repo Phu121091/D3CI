@@ -1,0 +1,9 @@
+.Hidden{
+    display: block;
+}
+.Show{
+    display: none;
+}
+div{
+    margin-top: 20px;
+}

@@ -1,0 +1,30 @@
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.yellow{
+    background-color: yellow;
+}
+.black{
+    background-color: black;
+}
+.square{
+    width: 150px;
+    height: 150px;
+}
+.circle{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+div{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
